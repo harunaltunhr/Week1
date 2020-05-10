@@ -1,0 +1,9 @@
+# Hello Everyone
+
+## I am Harun Altun
+
+> I am from Turkey
+
+> I came Belgium 4 months ago. I graduated from University as _Environment Engineer_ but I worked as **Recruitment Specialist** in ICT companies. (So I am experienced to change my career path)
+
+> ![Profile photo(SmallSize)](https://user-images.githubusercontent.com/62182810/81498014-a2bfa200-92c2-11ea-8d99-6232ea415e23.jpg)
